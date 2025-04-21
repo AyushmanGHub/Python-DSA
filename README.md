@@ -15,19 +15,25 @@ Arrays & Strings, Linked Lists, Stacks & Queues, Trees & Graphs, Recursion & Bac
 
 All problems are solved using **Python** for clear, concise, and beginner-friendly code.
 
-## 📂 Structure
 
-Each folder/topic includes:
-- Problem statement (in comments or markdown)
-- Python solution
-- Optional explanations and edge case discussions
+## 📁 Repository Highlights
 
-## 🤝 Contributions
+This repository also includes:<br>
+- 📓 **Python Notebook files** for interactive demonstrations and hands-on learning.
+- 📑 **A detailed project report paper** summarizing the work and approach.
+- 📂 **All supporting resources** to help you dive deeper into concepts and implementations.
 
-Contributions are welcome! Feel free to open issues or submit pull requests if you want to add problems, optimize solutions, or improve readability.
+Everything you need to **learn**, **test**, and **extend** is right here — feel free to explore!
 
-If you find this repository helpful, consider giving it a ⭐️ to show your support!
 
----
 
-Would you like me to update this directly on GitHub for you, or would you prefer a version you can copy-paste?
+## 🤝 Let’s Connect!
+
+😊 I’m always open to meaningful conversations, collaborative projects, and idea exchanges in the fields of **graph theory**, **machine learning**, and **data science**.
+
+If you're interested in:
+- Discussing new insights  
+- Collaborating on related topics  
+- Contributing to ongoing discussions  
+
+Feel free to **reach out**! Let’s learn and build together 🚀
